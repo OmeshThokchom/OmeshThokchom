@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @OmeshThokchom
 - 👀 I’m interested in ... AI, machine learning, and data science
-- 🌱 I’m currently learning ... mechanical engineering
+- 🌱 I’m currently learning ... btech CSE, also finish mechanical engineering(diploma)
 - 📫 How to reach me ... 
 
 <!---
