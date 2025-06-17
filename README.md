@@ -1,9 +1,23 @@
-- 👋 Hi, I’m @OmeshThokchom
-- 👀 I’m interested in ... AI, machine learning, and data science
-- 🌱 I’m currently learning ... btech CSE, also finish mechanical engineering(diploma)
-- 📫 How to reach me ... 
+<h1 align="center">👋 Yo, I'm DAYANANDA THOKCHOM </h1>
+<h3 align="center">⚡ AI Dev | B.TECH STUDENT | Builder of Manipur's First AI Robot</h3>
 
-<!---
-OmeshThokchom is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+### 🧠 About Me
+
+- 👨‍💻 B.Tech CSE @ Royal Global University (5th Sem)
+- 🎓 Also completed Diploma in Mechanical Engineering 
+- 🤖 Built the **first AI-powered robot from Manipur**
+- 🧠 Grinding on AI/ML, TTS, ASR, NLP, and LLMs for low-resource languages
+- 🌐 **N7 Labs** – repping Northeast India in the AI scene
+- 🚀 Pushing open-source for Meitei Mayek, tribal languages, and future tech
+
+---
+
+### 🛠️ Tech Stack
+
+```bash
+💻 Python | C++ | c | Bash 
+🧠 PyTorch | HuggingFace | Transformers | ONNX
+🎤 ASR | TTS | LLM | Meitei Mayek NLP
+🖥️ Linux | HF Datasets | GitHub Actions | Web APIs
