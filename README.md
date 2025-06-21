@@ -1,5 +1,5 @@
 <h1 align="center">👋 Yo, I'm DAYANANDA THOKCHOM </h1>
-<h3 align="center">⚡ AI Dev | B.TECH STUDENT | Builder of Manipur's First AI Robot</h3>
+<h3 align="center">⚡ AI Dev | B.TECH STUDENT | Manipur </h3>
 
 ---
 
