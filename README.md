@@ -6,9 +6,9 @@
 ### 🧠 About Me
 
 - 👨‍💻 B.Tech CSE @ Royal Global University (5th Sem)
-- 🎓 Also completed Diploma in Mechanical Engineering 
+- 🎓 completed Diploma in Mechanical Engineering 
 - 🤖 Built the **first AI-powered robot from Manipur**
-- 🧠 Grinding on AI/ML, TTS, ASR, NLP, and LLMs for low-resource languages
+- 🧠 Grinding on AI/ML, TTS, ASR, NLP, and LLMs for low-resource languages of northeast
 - 🌐 **N7 Labs** – repping Northeast India in the AI scene
 - 🚀 Pushing open-source for Meitei Mayek, tribal languages, and future tech
 
