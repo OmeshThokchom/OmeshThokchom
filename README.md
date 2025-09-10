@@ -83,6 +83,7 @@
 ![Visitor Count](https://komarev.com/ghpvc/?username=OmeshThokchom&label=Profile%20Views&color=0e75b6&style=for-the-badge)  
 <!-- GitHub Stats -->
 ![](https://github-readme-stats.vercel.app/api?username=OmeshThokchom&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&line_height=24)
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=OmeshThokchom&theme=radical&hide_border=true&layout=compact&langs_count=8&hide=html,css)
  
 ![](https://github-readme-streak-stats.herokuapp.com/?user=OmeshThokchom&theme=radical&hide_border=true&fire=FF0000&ring=00F7FF)  
