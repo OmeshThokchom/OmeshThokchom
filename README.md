@@ -27,8 +27,5 @@
 ![Snake animation](https://github.com/OmeshThokchom/OmeshThokchom/blob/output/github-contribution-grid-snake.svg)
 
 
-![Snake animation](https://raw.githubusercontent.com/OmeshThokchom/OmeshThokchom/output/github-contribution-grid-snake.svg)
-
-
 ![Visitor Count](https://komarev.com/ghpvc/?username=OmeshThokchom&label=Profile%20views&color=0e75b6&style=flat)
 
