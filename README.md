@@ -26,3 +26,6 @@
 
 ![Snake animation](https://github.com/OmeshThokchom/OmeshThokchom/blob/output/github-contribution-grid-snake.svg)
 
+
+![Snake animation](https://raw.githubusercontent.com/OmeshThokchom/OmeshThokchom/output/github-contribution-grid-snake.svg)
+
