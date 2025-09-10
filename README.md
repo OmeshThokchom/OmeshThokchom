@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=4000&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=👋+Yo!+I'm+Dayananda+Thokchom;⚡+AI+Dev+%7C+Student+%7C+Innovator;🚀+Building+N7+Labs+for+the+Northeast" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=4000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=👋+Yo!+I'm+Dayananda+Thokchom;⚡+AI+Dev+%7C+B.Tech+CSE+Student;🚀+Founder+of+N7+Labs;🤖+ASR+%7C+TTS+%7C+LLMs+%7C+NLP;🌐+AI+for+the+Northeast" alt="Typing animation" />
 </h1>
 
 <h3 align="center">⚡ AI Dev | B.Tech CSE @ RGU | Manipur 🇮🇳</h3>
@@ -11,9 +11,9 @@
 - 👨‍💻 B.Tech CSE (5th Sem) @ Royal Global University  
 - 🎓 Diploma in Mechanical Engineering  
 - 🤖 Built the **first AI-powered robot from Manipur**  
-- 🧠 Working on AI/ML, **TTS, ASR, NLP, LLMs** for low-resource languages  
+- 🧠 Researching AI/ML, **TTS, ASR, NLP, LLMs** for low-resource languages  
 - 🌐 Founder of **N7 Labs** → Repping Northeast India in AI  
-- 🚀 Mission: Open-source for **Meitei Mayek + Tribal Languages**  
+- 🚀 Mission: Open-source **Meitei Mayek + Tribal Language AI**  
 
 ---
 
@@ -33,28 +33,28 @@
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![API](https://img.shields.io/badge/Web%20APIs-FF6C37?style=for-the-badge&logo=fastapi&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
 </div>
 
 ---
 
-### 📈 GitHub Vibes  
+## ⚡ GitHub Dashboard  
 
 <div align="center">
 
+<!-- Visitor counter -->
 ![Visitor Count](https://komarev.com/ghpvc/?username=OmeshThokchom&label=Profile%20Views&color=0e75b6&style=flat)  
+
+<!-- Trophies -->
+![trophy](https://github-profile-trophy.vercel.app/?username=OmeshThokchom&theme=radical&no-frame=true&margin-w=15)
+
+<!-- Streak + Stats + Langs -->
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=OmeshThokchom&theme=radical&hide_border=true)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OmeshThokchom&layout=compact&theme=tokyonight&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=OmeshThokchom&show_icons=true&theme=radical&hide_border=true)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OmeshThokchom&layout=compact&theme=tokyonight&hide_border=true)  
 
-</div>
-
----
-
-### 🐍 Contribution Snake  
-
-<div align="center">
-  
+<!-- Snake -->
 ![Snake animation](https://github.com/OmeshThokchom/OmeshThokchom/blob/output/github-contribution-grid-snake-dark.svg)
 
 </div>
