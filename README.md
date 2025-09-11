@@ -1,7 +1,10 @@
 # Dayananda Thokchom | AI Developer & Researcher
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=4000&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=👋+Yo!+I'm+Dayananda+Thokchom;⚡+AI+Dev+%7C+Cybersecurity+Enthusiast;🚀+Founder+of+N7+Labs;🤖+ASR+%7C+TTS+%7C+LLMs+%7C+NLP;🌐+AI+for+the+Northeast" alt="Typing animation" />
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=4000&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=👋+Yo!+I'm+Dayananda+Thokchom;;🚀+Founder+of+N7+Labs" alt="Typing animation" />
+</p>
+
 </h1>
 
 <h3 align="center">⚡ AI Developer | B.Tech CSE @ RGU | Building AI for Northeast India 🇮🇳</h3>
