@@ -2,7 +2,7 @@
 
 <h1 align="center">
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=4000&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=👋+Yo!+I'm+Dayananda+Thokchom;;🚀+Founder+of+N7+Labs" alt="Typing animation" />
+  I do nothing...
 </p>
 
 </h1>
