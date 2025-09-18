@@ -130,7 +130,7 @@ Open for collab on:
 <div align="center">
 
 ### ⚡ Fun Fact
-> "I built my first AI model while still studying mechanical engineering – passion > degree."
+> "I built first AI powered robot in Mnaipur while still studying mechanical engineering – passion > degree."
 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
