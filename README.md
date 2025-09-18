@@ -11,7 +11,7 @@
 
 </h1>
 
-<h3 align="center">⚡ AI Developer | B.Tech CSE @ RGU | Building AI for Northeast India 🇮🇳</h3>
+<h3 align="center">⚡ AI Developer | B.Tech CSE | Building AI for Northeast India 🇮🇳</h3>
 
 <div align="center">
   
