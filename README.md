@@ -138,6 +138,6 @@ Open for collab on:
 
 **Thank you for visiting my profile!** Let’s build the future of AI together 🚀  
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Keep%20Hacking%20👨‍💻&fontSize=30&fontAlignY=70)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Keep%20coding..%20👨‍💻&fontSize=30&fontAlignY=70)
 
 </div>
