@@ -40,7 +40,6 @@
 - 🔥 **Open-source advocate** for Meitei Mayek + tribal AI tools  
 
 ---
-
 ## 🛠️ Tech Stack & Expertise
 
 <div align="center">
