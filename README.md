@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Dayananda%20Thokchom%20aka%20Omesh&fontSize=60&animation=twinkle&fontAlignY=38&desc=AI%20Chaos%20Lord%20from%20Northeast%20India%20🇮🇳%20-%20Coding%20Wild%20Stuff%20Outta%20Nowhere&descAlignY=55&descAlign=62" alt="Header Banner">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Dayananda%20aka%20Omesh&fontSize=60&animation=twinkle&fontAlignY=38&desc=AI%20Chaos%20Lord%20from%20Northeast%20India%20🇮🇳%20-%20Coding%20Wild%20Stuff%20Outta%20Nowhere&descAlignY=55&descAlign=50" alt="Header Banner">
 </h1>
 
 <div align="center">
