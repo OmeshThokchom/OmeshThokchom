@@ -1,6 +1,6 @@
 <h1 align="center"> 
 <p align="center">
-  Dayananda Thokchom 
+ Hi! I'm Dayananda Thokchom 
 </p>
 </h1>
 
