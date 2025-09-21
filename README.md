@@ -77,9 +77,10 @@
 
 ---
 
-## 📊 GitHub Stats (Cuz Why Not)
+## 📊 GitHub Stats (Digits So Hot They Stackin' Like 💸)
 
 <div align="center">
+  <p>yo, the higher these numbers climb, the sexier it gets—think digits of 💰 drippin' in clout! my commits are my currency, and i’m ballin’ 😎</p>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=OmeshThokchom&label=Profile%20Views&color=0e75b6&style=for-the-badge)
 
@@ -91,7 +92,7 @@
 
 ![Trophies](https://github-profile-trophy.vercel.app/?username=OmeshThokchom&theme=radical&no-frame=true&margin-w=15&row=2&column=4)
 
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=OmeshThokchom&theme=react-dark&hide_border=true&area=true&custom_title=My%20Chaotic%20Contributions)
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=OmeshThokchom&theme=react-dark&hide_border=true&area=true&custom_title=My%20Chaotic%20Contributions%20%F0%9F%92%B8)
 
 ![Snake Game](https://raw.githubusercontent.com/OmeshThokchom/OmeshThokchom/output/github-contribution-grid-snake-dark.svg)
 
