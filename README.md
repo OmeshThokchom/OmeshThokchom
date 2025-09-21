@@ -33,8 +33,8 @@
 </div>
 
 - 👨‍💻 **B.Tech CSE** (5th Sem) @ Royal Global University, Guwahati  
-- 🎓 **Diploma in Mechanical Engineering** with honors  
-- 🤖 Built **Manipur's first AI-powered robot** (hardware + software)  
+- 🎓 **Diploma in Mechanical Engineering** 
+- 🤖 Built **Manipur's first AI-powered robot**  
 - 🧠 Researching **ASR, TTS, NLP, and LLMs** for endangered languages  
 - 🌐 **N7 Labs** → Building AI for Northeast India  
 - 🔥 **Open-source advocate** for Meitei Mayek + tribal AI tools  
