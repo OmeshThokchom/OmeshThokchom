@@ -115,7 +115,7 @@
 <div align="center">
 
 Open for collab on:  
-🗣️ Language AI • 🤖 Robotics • 🔒 Cybersecurity • 🌐 Open-source AI  
+🗣️ Language AI • 🤖 Robotics • 🌐 Open-source AI  
 
 ### 📫 Reach Me At
 [![Email](https://img.shields.io/badge/Email-dayananda@n7labs.in-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dayananda@n7labs.in)  
