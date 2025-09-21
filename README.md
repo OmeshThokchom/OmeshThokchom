@@ -118,7 +118,7 @@ Open for collab on:
 🗣️ Language AI • 🤖 Robotics • 🌐 Open-source AI  
 
 ### 📫 Reach Me At
-[![Email](https://img.shields.io/badge/Email-dayananda@n7labs.in-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dayananda@n7labs.in)  
+[![Email](https://img.shields.io/badge/Email-thokchomdayananda54@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thokchomdayananda54@gmail.com)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dayananda-thokchom)  
 [![Website](https://img.shields.io/badge/Website-n7labs.in-FF7139?style=for-the-badge&logo=firefox-browser&logoColor=white)](https://n7labs.in)
 
