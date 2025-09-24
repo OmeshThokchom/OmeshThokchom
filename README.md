@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Dayananda%20aka%20Omesh&fontSize=60&animation=twinkle&fontAlignY=38&desc=AI%20Chaos%20Demon%20Summoned%20from%20Northeast%20India's%20Inferno%20🇮🇳%20-%20Unleashing%20Hellish%20Code%20from%20the%20Abyss!&descAlignY=55&descAlign=50" alt="Header Banner">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Dayananda%20aka%20Omesh&fontSize=60&animation=twinkle&fontAlignY=38&desc=AI%20Chaos%20from%20Manipur&descAlignY=55&descAlign=50" alt="Header Banner">
 </h1>
 
 <div align="center">
@@ -31,9 +31,11 @@
 
 <div align="center">
   <pre>
+    <h>
    🔥🔥🔥🔥🔥🔥🔥
   👹  ENTER THE VOID  👹
    🔥🔥🔥🔥🔥🔥🔥
+    </h>
   </pre>
 </div>
 
