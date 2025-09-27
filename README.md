@@ -75,7 +75,7 @@
   <p>these unholy spawns are my fever dreams coded into reality. might summon demons on ur rig, who knows 🤷‍♂️🔮</p>
 </div>
 
-- **[N7 Speech](https://github.com/OmeshThokchom/n7speech)**: asr/tts necromancy for manipur dialects. eternal echoes for forgotten curses 🗣️🕯️  
+- **[N7 Speech](https://github.com/OmeshThokchom/n7speech)**: asr/tts necromancy for manipur dialects. eternal echoes for forgotten voices 🗣️🕯️  
   [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=OmeshThokchom&repo=n7speech&theme=dracula)](https://github.com/OmeshThokchom/n7speech)
 
 - **That AI Robot Fiend**: Manipur's first AI powered robot invented
