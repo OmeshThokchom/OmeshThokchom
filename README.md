@@ -80,7 +80,7 @@
 
 - **That AI Robot Fiend**: Manipur's first AI powered robot invented
 
-- **Meitei Mayek Sorcery**: llm for ancient runes. blending eldritch texts with ai Armageddon 📜🌑
+- **Meitei Mayek Sorcery**: LLM for ancient runes. blending eldritch texts with ai Armageddon 📜🌑
 
 <div align="center">
   <img src="https://media.giphy.com/media/3o7aD2ktww0J5WVaKs/giphy.gif" alt="Explosion from Hell GIF" width="300">
