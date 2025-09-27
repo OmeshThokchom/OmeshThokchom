@@ -17,7 +17,7 @@
 
 ---
 
-## 🧠 Descent Into My Madness (No Cap, Pure Inferno Facts) 🔥👿
+## 🧠 Descent Into My Madness (No Cap,)
 
 <div align="center">
   <img src="https://media.giphy.com/media/l0HlRnAWXxn0MhKLK/giphy.gif" alt="Hell Portal GIF" width="300"> <!-- Hell-themed GIF for chaotic vibes -->
