@@ -78,7 +78,7 @@
 - **[N7 Speech](https://github.com/OmeshThokchom/n7speech)**: asr/tts necromancy for manipur dialects. eternal echoes for forgotten curses 🗣️🕯️  
   [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=OmeshThokchom&repo=n7speech&theme=dracula)](https://github.com/OmeshThokchom/n7speech)
 
-- **That AI Robot Fiend**: conjured manipur's og ai hellbot in mech eng purgatory. it stalks, whispers, eternal nightmare fuel 🤖👹
+- **That AI Robot Fiend**: Manipur's first AI powered robot invented
 
 - **Meitei Mayek Sorcery**: llm for ancient runes. blending eldritch texts with ai Armageddon 📜🌑
 
