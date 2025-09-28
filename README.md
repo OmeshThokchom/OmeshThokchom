@@ -2,7 +2,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Dayananda%20aka%20Omesh&fontSize=60&animation=twinkle&fontAlignY=38&desc=AI%20Chaos%20from%20Manipur&descAlignY=55&descAlign=50" alt="Header Banner">
 </h1>
 
-
 <div align="center">
   <h2>🔥 AI Hellspawn Vibes: Dragging Forgotten Langs Outta the Underworld! </h2>
   <p>yo! i'm this feral gremlin summoning AI spells to revive dead-ass langs. straight chaos in the northeast pits. wanna dive into the glitchy void with me?🤪</p>
