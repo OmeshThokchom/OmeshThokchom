@@ -110,9 +110,10 @@
 </div>
 
 ---
-### My Contribution Heatmap 🔥
+### 📆 Contribution Calendar
 
-![GitHub Metrics](https://github.com/OmeshThokchom/OmeshThokchom/blob/main/github-metrics.svg)
+![GitHub Metrics](https://raw.githubusercontent.com/OmeshThokchom/OmeshThokchom/main/github-metrics.svg)
+
 
 ## 🎯 Current Hellraisers (Brainworms from the Ninth Circle) 🩸📿
 
