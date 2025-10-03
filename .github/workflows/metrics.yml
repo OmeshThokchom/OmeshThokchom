@@ -1,0 +1,24 @@
+name: Metrics
+on:
+  # Runs every 6 hours
+  schedule: 
+    - cron: "0 */6 * * *"
+  # Allows manual trigger
+  workflow_dispatch:
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          # Your GitHub token (add in repo settings → secrets → actions)
+          token: ${{ secrets.GH_TOKEN }}
+          # Basic config
+          user: DayanandaThokchom
+          template: classic
+          base: ""
+          config_timezone: Asia/Kolkata
+
+          # Enable isocalendar plugin
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: half-year
