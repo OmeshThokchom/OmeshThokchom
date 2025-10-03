@@ -14,7 +14,7 @@ jobs:
           # Your GitHub token (add in repo settings → secrets → actions)
           token: ${{ secrets.GH_TOKEN }}
           # Basic config
-          user: DayanandaThokchom
+          user: OmeshThokchom
           template: classic
           base: ""
           config_timezone: Asia/Kolkata
