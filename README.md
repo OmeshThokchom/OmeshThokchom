@@ -110,6 +110,9 @@
 </div>
 
 ---
+### My Contribution Heatmap 🔥
+
+![GitHub Metrics](https://github.com/DayanandaThokchom/DayanandaThokchom/blob/main/github-metrics.svg)
 
 ## 🎯 Current Hellraisers (Brainworms from the Ninth Circle) 🩸📿
 
