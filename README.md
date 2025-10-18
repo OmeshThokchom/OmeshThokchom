@@ -29,7 +29,7 @@
 
 ---
 
-## 🛠️ My Arsenal from the Depths (Tools Forged in Hellfire) 🔥🛡️
+## 🛠️ My Tools 🔥🛡️
 
 <div align="center">
 
