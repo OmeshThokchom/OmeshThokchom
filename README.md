@@ -27,7 +27,6 @@
 - **Brain Melt**: tampering with asr, tts, nlp, llms. alchemizing garbage data into unholy artifacts
 - **Eternal Mood**: code til the world burns, patch the ashes, loop forever. ai for the damned, no souls barred
 
-
 ---
 
 ## 🛠️ My Arsenal from the Depths (Tools Forged in Hellfire) 🔥🛡️
