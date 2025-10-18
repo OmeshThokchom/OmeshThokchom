@@ -28,7 +28,6 @@
 - **Eternal Mood**: code til the world burns, patch the ashes, loop forever. ai for the damned, no souls barred
 
 ---
-
 ## 🛠️ My Tools 🔥🛡️
 
 <div align="center">
