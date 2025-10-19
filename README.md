@@ -130,7 +130,7 @@
 <div align="center">
 
 ### ⚡ Cursed Fact from the Depths
-> "summoned that bot in a blackout – turns out, darkness > mortal power 💡🌑"
+> "summoned that bot in a blackout – turns out, darkness > mortal power 💡"
 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
