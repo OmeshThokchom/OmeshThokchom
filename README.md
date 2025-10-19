@@ -113,7 +113,7 @@
 
 ---
 
-## 🤝 Pact for Collabs (Seal It in Blood If Ur Brave) 🩸🤝
+## 🤝 Pact for Collabs (Seal It in Blood If Ur Brave) 
 
 <div align="center">
   <p>whisper ur dark desires for lang ai, robot legions, or open-source rituals. no eternal damnation, promise 💀</p>
