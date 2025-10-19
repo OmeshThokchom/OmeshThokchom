@@ -103,7 +103,7 @@
 ![GitHub Metrics](https://raw.githubusercontent.com/OmeshThokchom/OmeshThokchom/main/github-metrics.svg)
 
 
-## 🎯 Current Hellraisers (Brainworms from the Ninth Circle) 🩸📿
+## 🎯 Current Hellraisers (Brainworms from the Ninth Circle) 
 
 - **Necro Research**: resurrectin' low-resource llms, tribal speech invocations. 🔬
 - **Code Cataclysm**: apps that thrive in hardware hellholes 🥔💥
