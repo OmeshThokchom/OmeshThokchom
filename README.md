@@ -107,7 +107,7 @@
 ## 🎯 Current Hellraisers (Brainworms from the Ninth Circle) 
 
 - **Necro Research**: resurrectin' low-resource llms, tribal speech invocations. 🔬
-- **Code Cataclysm**: apps that thrive in hardware hellholes 🥔💥
+- **Code Cataclysm**: apps that thrive in hardware hellholes 💥
 - **Coven Vibes**: n7 labs – gratis ai grimoires for the damned squad
 - **Ascension Path**: multimodal ai, next-level doomsaying 📈
 - **Apocalyptic Vision**: ai babblin' every indian curse by 2030. wanna bet ur soul?
