@@ -57,7 +57,7 @@
 </div>
 
 ---
-## 🌟 Cursed Projects Spawned from the Pit (Dare to Summon?) 👻💥
+## Cursed Projects Spawned from the Pit (Dare to Summon?) 👻💥
 
 <div align="center">
   <p>these unholy spawns are my fever dreams coded into reality. might summon demons on ur rig, who knows 🤷‍♂️🔮</p>
