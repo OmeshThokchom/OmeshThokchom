@@ -76,7 +76,7 @@
 
 ---
 
-## 📊 GitHub Inferno Stats (Digits Burnin' Hotter Than Hellfire 💸🔥)
+## 📊 GitHub Inferno Stats (Digits Burnin' Hotter Than Hellfire 🔥)
 
 <div align="center">
   <p>bruh, these nums ascendin' to god-tier—stackin' like infernal riches drippin' blood money! my commits fuel the flames, straight ballin' in the abyss 😈💰</p>
