@@ -1,6 +1,6 @@
 <h1 align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Dayananda%20aka%20Omesh&fontSize=60&animation=twinkle&fontAlignY=38&desc=MANIPUR&descAlignY=55&descAlign=50" alt="Header Banner">
-  
+
 </h1>
 <div align="center">
   <h2>🔥 AI Hellspawn Vibes: Dragging Forgotten Langs Outta the Underworld! </h2>
