@@ -4,7 +4,7 @@
 </h1>
 <div align="center">
   <h2>🔥 AI Hellspawn Vibes: Dragging Forgotten Langs Outta the Underworld! </h2>
-  <p>yo! i'm this feral gremlin summoning AI spells to revive dead-ass langs. straight chaos in the northeast pits. wanna dive into the glitchy void with me?🤪</p>
+  <p>yo! i'm this feral gremlin summoning AI spells to revive dead langs. straight chaos in the northeast pits. wanna dive into the glitchy void with me?🤪</p>
 </div>
 
 
