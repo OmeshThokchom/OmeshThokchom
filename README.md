@@ -21,7 +21,7 @@
   <img src="https://media.giphy.com/media/l0HlRnAWXxn0MhKLK/giphy.gif" alt="Hell Portal GIF" width="300"> <!-- Hell-themed GIF for chaotic vibes -->
 </div>
 
-- **Infernal Vibe Check**: hexing AI to vibe with underground langs in northeast india. cuz f*ck it, every cursed tongue deserves a scream 🌍🇮🇳💀
+- **Infernal Vibe Check**: hexing AI to vibe with underground langs in northeast india. cuz f*ck it, every cursed tongue deserves a scream 🌍
 - **Hellish School Grind**: b.tech cse (5th sem) @ royal global uni, guwahati. ghosted mechanical eng after summoning manipur's first ai demon bot on a dare 🤖😱
 - **Demonic Side Hustle**: n7 labs – bootleg ai rituals for the northeast crew. open-source all the spells, meitei mayek hexes go brrrr
 - **Brain Melt**: tampering with asr, tts, nlp, llms. alchemizing garbage data into unholy artifacts
