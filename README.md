@@ -15,8 +15,6 @@
   <img src="https://img.shields.io/badge/Chaos%20Level-Over%209000-red?style=for-the-badge&logo=fire" alt="Chaos Level">
 </div>
 
-
-
 ---
 ## Descent Into My Madness (No Cap)
 
