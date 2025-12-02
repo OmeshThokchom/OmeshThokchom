@@ -133,7 +133,7 @@
 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-**thx for bravin' the flames!** stay damned, code eternal 🤟🔥
+**thx for bravin' the flames!** stay damned, code eternal🔥
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=footer&text=Escape%20the%20Abyss%20If%20You%20Can%20🚀&fontSize=40&fontAlignY=70" alt="Footer Banner">
 
