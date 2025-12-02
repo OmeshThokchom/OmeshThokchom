@@ -24,7 +24,7 @@
 
 - **Infernal Vibe Check**: hexing AI to vibe with underground langs in northeast india. cuz f*ck it, every cursed tongue deserves a scream 🌍
 - **Hellish School Grind**: b.tech cse (5th sem) @ royal global uni, guwahati. ghosted mechanical eng after summoning manipur's first ai demon bot on a dare 🤖😱
-- **Demonic Side Hustle**: n7 labs – bootleg ai rituals for the northeast crew. open-source all the spells, meitei mayek hexes go brrrr
+- **Demonic Side Hustle**: YAI DYNAMICS – bootleg ai rituals for the northeast crew. open-source all the spells, meitei mayek hexes go brrrr
 - **Brain Melt**: tampering with asr, tts, nlp, llms. alchemizing garbage data into unholy artifacts
 - **Eternal Mood**: code til the world burns, patch the ashes, loop forever. ai for the damned, no souls barred
 
