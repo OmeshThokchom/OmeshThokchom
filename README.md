@@ -6,6 +6,7 @@
   <p>yo! i'm this feral gremlin summoning AI spells to revive dead langs. straight chaos in the northeast pits. wanna dive into the glitchy void with me?🤪</p>
 </div>
 
+
 <div align="center">
   <img src="https://img.shields.io/github/followers/OmeshThokchom?style=for-the-badge&color=ff0000&logo=github" alt="GitHub Followers">
   <img src="https://img.shields.io/github/stars/OmeshThokchom?style=for-the-badge&color=ff4500&logo=github" alt="GitHub Stars">
