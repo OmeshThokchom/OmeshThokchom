@@ -2,16 +2,17 @@ name: Metrics
 
 on:
   schedule:
-    - cron: "0 */6 * * *"    # every 6 hours
+    - cron: "0 3 * * *"      # daily at 03:00 UTC (08:30 IST)
   workflow_dispatch:
 
 jobs:
   generate-metrics:
     runs-on: ubuntu-latest
+    timeout-minutes: 10
 
     steps:
       - name: Checkout
-        uses: actions/checkout@v4
+        uses: actions/checkout@v5
 
       - name: Generate metrics
         uses: lowlighter/metrics@latest
@@ -21,5 +22,7 @@ jobs:
           template: classic
           base: ""
           config_timezone: Asia/Kolkata
+          retries: 2
+          retries_delay: 60
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
